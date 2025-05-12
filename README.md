@@ -40,6 +40,7 @@
 
 ### 1️⃣ Clone the OneClickSite repo
 git clone https://github.com/your-username/OneClickSite.git
+
 cd OneClickSite
 
 ### 2️⃣ Make the script executable
