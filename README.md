@@ -39,7 +39,7 @@
 ## 🛠️ Installation & Usage
 
 ### 1️⃣ Clone the OneClickSite repo
-git clone https://github.com/your-username/OneClickSite.git
+git clone https://github.com/theprikshitsharma/OneClickSite.git
 
 cd OneClickSite
 
